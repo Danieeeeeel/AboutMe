@@ -1,12 +1,12 @@
 -+ 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 +-
 -=-=-=-=-=-=-=-=-=-=-
--+ <My name is Daniel and I am a beginner Web App Developer> +-
+-+ My name is Daniel and I am a beginner Web App Developer +-
 -=-=-=-=-=-=-=-=-=-=-
 
 -+ 𝙻𝙸𝙽𝙺𝚂 +-
 -=-=-=-=-=-=-=-=-=-=-
-<url=https://www.youtube.com/@danieaustria>YouTube</url>
-<url=https://open.spotify.com/user/yln4g4x64d66tlrbctekdcf7q>Spotify</url>
+[YouTube](https://www.youtube.com/@danieaustria)
+[Spotify](https://open.spotify.com/user/yln4g4x64d66tlrbctekdcf7q)
 -=-=-=-=-=-=-=-=-=-=-
   
 <!---
